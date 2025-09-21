@@ -242,7 +242,7 @@ Assalamualaikum guys! 🙌 This is Mohammad Ayaan Siddiqui (♦moayaan.eth♦). 
 - Research Intern at a Hong Kong-based firm 🇭🇰
 - Technical Co-Founder at a Netherlands-based firm 🇳🇱
 - Full Stack Intern at a Singapore-based crypto hardware wallet firm 🇸🇬
-- Currently a Blockchain Developer on a US-based Bitcoin DeFi project 🇺🇸
+- Blockchain Developer at a US-based Bitcoin DeFi project 🇺🇸
 - Completed PG Diploma in Blockchain Management from Cambridge International Qualifications (CIQ) 🇬🇧
 - Currently pursuing an online MBA in Blockchain Management from University of Studies Guglielmo Marconi, Italy 🇮🇹
 

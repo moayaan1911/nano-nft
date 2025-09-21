@@ -12,32 +12,12 @@ const supportedChains = [sepolia];
 const wallets = [
   inAppWallet({
     auth: {
-      options: [
-        "google",
-        "discord",
-        "telegram",
-        "farcaster",
-        "email",
-        "x",
-        "passkey",
-        "phone",
-        "github",
-        "twitch",
-        "steam",
-        "apple",
-        "facebook",
-        "guest",
-        "line",
-        "tiktok",
-        "coinbase",
-      ],
+      options: ["guest", "email"],
     },
   }),
   createWallet("io.metamask"),
   createWallet("com.coinbase.wallet"),
   createWallet("me.rainbow"),
-  createWallet("io.rabby"),
-  createWallet("io.zerion.wallet"),
   createWallet("com.tangem"),
 ];
 
